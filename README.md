@@ -3,7 +3,7 @@ Bonnjour voici comment executer chaque class de test:
 
 python -m unittest -v test_devoir.le_nom_de_la_class
 
-Exemple:
+EXEMPLES:
 
 Pour la class TestCompterMots, faire :
 
